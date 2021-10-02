@@ -1,0 +1,16 @@
+.nujd-item .thumb-njd{width: 110px; height: 110px; }
+.nujd-item .njd-text {
+    color: black;
+    width: 860px;}
+.njd-text .title-njd {
+    font-weight: 600;
+    font-size: 18px;
+}
+.desc-needs {    font-size: 16px;}
+
+@media screen and (max-width: 800px) {
+
+
+
+}
+

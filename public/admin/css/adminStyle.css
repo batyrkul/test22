@@ -1,0 +1,13 @@
+.news-h2{text-align: center; font-weight: 600; margin: 20px 0 }
+.list-img img{ height: 50px;}
+.right{float: right}
+.flex{display: flex;
+    flex-wrap: wrap;}
+.right div{margin-right: 5px}
+
+@media screen and (max-width: 800px) {
+
+
+
+
+}

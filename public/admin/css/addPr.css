@@ -1,0 +1,22 @@
+#createShop h2{text-transform: uppercase; margin: 15px  0 15px 0; text-align: center;}
+.addPrd input{width: 100%; height: 40px; border: 1px solid #d0d0d0;  margin-bottom: 15px; margin-top: 15px;  outline: none;    border-radius: 5px;}
+.addPrd select{width: 100%; height: 40px; border: 1px solid #d0d0d0;  margin-bottom: 15px; margin-top: 15px;  outline: none;    border-radius: 5px;}
+.addPrd textarea{width: 100%; height: 100px; border: 1px solid #d0d0d0;  margin-bottom: 15px;  margin-top: 15px; outline: none;    border-radius: 5px;}
+.addPrd label{padding-top: 15px;}
+.addPrd input[type='radio']{width: 15px; height: 15px;}
+.addPrd input[type='checkbox']{width: 15px; height: 15px; display: none}
+.addPrd span{margin-right: 10px;}
+.adpr-button{text-align: center; margin: 15px 0 25px 0}
+.prtr label{    padding: 8px;    text-transform: uppercase;    border: 1px solid #a80de0;    margin-right: 10px;}
+.prtr label:hover{background-color: #a80de0; color: white }
+
+.prtr input[type='checkbox']:checked + label {
+    background-color: #a80de0; color: white
+}
+.isstet-img {width: 100px; overflow: hidden; border:1px solid #d0d0d0}
+.isstet-img img{width: 100%;}
+.delete-img{position: absolute;    bottom: 5px;    left: 20px;    font-size: 12px; }
+.delete-img2{position: absolute;       bottom: 3px;    left: 5px;  font-size: 12px; }
+.pr-thumb{position: absolute;    bottom: 5px;    left: 5px;    font-size: 12px;  }
+.isset_gall{width: 80px; height: 80px; overflow: hidden; border: 1px solid gray; margin-right: 10px; position: relative}
+.isset_gall img{width: 100%; }
